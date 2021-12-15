@@ -1,2 +1,2 @@
-model_checkpoint_path: "mnist.h1"
-all_model_checkpoint_paths: "mnist.h1"
+model_checkpoint_path: "weights.h6"
+all_model_checkpoint_paths: "weights.h6"
